@@ -1,0 +1,11 @@
+E:\Data Kuliah Semester 5\MetNum\Tugas Metnum1\Tugas Metnum1\bin\Debug\Tugas Metnum1.exe
+E:\Data Kuliah Semester 5\MetNum\Tugas Metnum1\Tugas Metnum1\bin\Debug\Tugas Metnum1.pdb
+E:\Data Kuliah Semester 5\MetNum\Tugas Metnum1\Tugas Metnum1\bin\Debug\Tugas Metnum1.xml
+E:\Data Kuliah Semester 5\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Tugas_Metnum1.Resources.resources
+E:\Data Kuliah Semester 5\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Tugas Metnum1.vbproj.GenerateResource.Cache
+E:\Data Kuliah Semester 5\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Tugas Metnum1.exe
+E:\Data Kuliah Semester 5\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Tugas Metnum1.xml
+E:\Data Kuliah Semester 5\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Tugas Metnum1.pdb
+C:\Users\Alfarizi\Documents\Visual Studio 2010\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Tugas Metnum1.exe
+C:\Users\Alfarizi\Documents\Visual Studio 2010\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Tugas Metnum1.xml
+C:\Users\Alfarizi\Documents\Visual Studio 2010\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Tugas Metnum1.pdb

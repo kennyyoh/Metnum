@@ -1,0 +1,16 @@
+C:\Users\Alfarizi\Documents\Visual Studio 2010\MetNum\Tugas Metnum1\Tugas Metnum1\bin\Debug\Tugas Metnum1.exe
+C:\Users\Alfarizi\Documents\Visual Studio 2010\MetNum\Tugas Metnum1\Tugas Metnum1\bin\Debug\Tugas Metnum1.pdb
+C:\Users\Alfarizi\Documents\Visual Studio 2010\MetNum\Tugas Metnum1\Tugas Metnum1\bin\Debug\Tugas Metnum1.xml
+C:\Users\Alfarizi\Documents\Visual Studio 2010\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Tugas_Metnum1.Resources.resources
+C:\Users\Alfarizi\Documents\Visual Studio 2010\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Metode Numerik 1.vbproj.GenerateResource.Cache
+C:\Users\Alfarizi\Documents\Visual Studio 2010\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Tugas Metnum1.exe
+C:\Users\Alfarizi\Documents\Visual Studio 2010\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Tugas Metnum1.xml
+C:\Users\Alfarizi\Documents\Visual Studio 2010\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Tugas Metnum1.pdb
+C:\Users\8.1\Downloads\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Tugas Metnum1.exe
+C:\Users\8.1\Downloads\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Tugas Metnum1.xml
+C:\Users\8.1\Downloads\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Tugas Metnum1.pdb
+C:\Users\8.1\Downloads\MetNum\Tugas Metnum1\Tugas Metnum1\bin\Debug\Tugas Metnum1.exe
+C:\Users\8.1\Downloads\MetNum\Tugas Metnum1\Tugas Metnum1\bin\Debug\Tugas Metnum1.pdb
+C:\Users\8.1\Downloads\MetNum\Tugas Metnum1\Tugas Metnum1\bin\Debug\Tugas Metnum1.xml
+C:\Users\8.1\Downloads\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Tugas_Metnum1.Resources.resources
+C:\Users\8.1\Downloads\MetNum\Tugas Metnum1\Tugas Metnum1\obj\x86\Debug\Metode Numerik 1.vbproj.GenerateResource.Cache
